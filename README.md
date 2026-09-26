@@ -1,3 +1,7 @@
+# HPDIC MOD
+
+## Starting on Sep 25, 2026
+
 <p align="center">
   <img src="assets/SDAR_doc_head.png" style="max-width:75%; height:auto;">
 </p>
